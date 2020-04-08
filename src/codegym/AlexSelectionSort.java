@@ -17,7 +17,6 @@ public class AlexSelectionSort {
         }
         return arr;
     }
-
     public static void main(String[] args) {
         double[] arr = {1, 9, 4.5, 6.6, 5.7, -4.5};
         System.out.println("Before Sorting : ");
@@ -26,6 +25,5 @@ public class AlexSelectionSort {
         System.out.println("===================");
         System.out.println("After Sorting : ");
         System.out.println(Arrays.toString(arr));
-
     }
 }
